@@ -1,0 +1,17 @@
+{
+    "n-rows": 8,
+    "n-clms": 12,
+    "n-plates": 2,
+    "row-gap": 1,
+    "clm-gap": 1,
+    "plate-gap": 90,
+    "x": 60,
+    "y": 60,
+    "well-w": 52,
+    "well-h": 52,
+    "angle": 0,
+    "org_img.shape": [
+        1037,
+        756
+    ]
+}
