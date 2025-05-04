@@ -1,9 +1,10 @@
 # Diamonds Installation Guide
 Automatic detection algorithm for *Drosophila melanogaster* activity. Adapted from https://github.com/kanglab/Sapphire.git
 
-Created by Daniel Ward, Stephen Cini, Cole Morris, Bridget Sweeney, and Jeremiah Zartman
+Created by Daniel Ward[^1], Stephen Cini[^1], Cole Morris[^1], Bridget Sweeney[^1], and Jeremiah Zartman[^1][^2]
 
-Department of Chemical and Biomolecular Engineering, University of Notre Dame
+[^1]: Department of Chemical and Biomolecular Engineering, University of Notre Dame
+[^2]: Deparment of Biological Sciences, University of Notre Dame
 
 ## Description
 The Drosophila Individual Activity Monitoring Detection System (DIAMonDS) is a software with the capability to monitor fly activity and recognize certain milestones in the life cycle of a fly. This software was pioneered and discussed in a paper by Seong et al. (2020). An Epson Perfection V600 Scanner is used in collaboration with VueScan software to collect time lapse images to input into the DIAMonDS system. Additionally, independent timelapse video may be created from the scanner’s images using Fiji. These videos allow for manual detection of fly activity across a known period of time, with particular significance in comparing fly populations.
